@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/counter_codeher/static/css/main.27cd0211.chunk.css",
+    "main.js": "/counter_codeher/static/js/main.12342958.chunk.js",
+    "main.js.map": "/counter_codeher/static/js/main.12342958.chunk.js.map",
+    "runtime-main.js": "/counter_codeher/static/js/runtime-main.bad04787.js",
+    "runtime-main.js.map": "/counter_codeher/static/js/runtime-main.bad04787.js.map",
+    "static/css/2.cbedb215.chunk.css": "/counter_codeher/static/css/2.cbedb215.chunk.css",
+    "static/js/2.b5f2aa95.chunk.js": "/counter_codeher/static/js/2.b5f2aa95.chunk.js",
+    "static/js/2.b5f2aa95.chunk.js.map": "/counter_codeher/static/js/2.b5f2aa95.chunk.js.map",
+    "static/js/3.d74d69f3.chunk.js": "/counter_codeher/static/js/3.d74d69f3.chunk.js",
+    "static/js/3.d74d69f3.chunk.js.map": "/counter_codeher/static/js/3.d74d69f3.chunk.js.map",
+    "index.html": "/counter_codeher/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/counter_codeher/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.27cd0211.chunk.css.map": "/counter_codeher/static/css/main.27cd0211.chunk.css.map",
+    "static/js/2.b5f2aa95.chunk.js.LICENSE.txt": "/counter_codeher/static/js/2.b5f2aa95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad04787.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.b5f2aa95.chunk.js",
+    "static/css/main.27cd0211.chunk.css",
+    "static/js/main.12342958.chunk.js"
+  ]
+}
